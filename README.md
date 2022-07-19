@@ -1,3 +1,1 @@
-# LibreLingo-ES-from-EN
-
-Spanish course for English speakers
+# LibreLingo-Neolatin-from-English
